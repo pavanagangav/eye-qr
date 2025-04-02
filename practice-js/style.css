@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+
+height: 100px;
+
+width: 100%;
+
+background: #dcdc06;
+
+display: flex;
+
+justify-content: center;
+
+align-items: center;
+}
+.main input{height: 30px;width: 300px;margin-right: 9px;}
+.main i{
+    cursor: pointer;
+font-size: 22px;
+}
+.qr{
+    height: 100px;
+    width: 100%;
+    background: #e0e08c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.qr input{
+    height: 30px;width: 300px;margin-right: 9px;
+}
+.qr img{
+height: 55px;
+margin-right: 8px;
+width: 55px;
+}
+.qr button{
+
+border: 0px;
+
+padding: 9px 10px;
+
+background: green;
+
+color: white;
+
+border-radius: 7px;
+cursor: pointer;
+}
